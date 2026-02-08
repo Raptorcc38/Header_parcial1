@@ -510,21 +510,21 @@ body {
 
 .feature-box-1:hover .feature-hover {
     opacity: 1;
-    background-image: url('img/img-banner_primer_parcial.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('img/img-banner_primer_parcial.jpg');
     background-size: cover;
     background-position: center;
 }
 
 .feature-box-2:hover .feature-hover {
     opacity: 1;
-    background-image: url('img/img-1_news.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('img/img-1_news.jpg');
     background-size: cover;
     background-position: center;
 }
 
 .feature-box-3:hover .feature-hover {
     opacity: 1;
-    background-image: url('img/img-3_services.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('img/img-3_services.jpg');
     background-size: cover;
     background-position: center;
 }
